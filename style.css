@@ -23,3 +23,7 @@ div{
     background-color:#8BE794;
     
 }
+nav{
+    position:sticky;
+    top:0;
+}
